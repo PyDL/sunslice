@@ -6,4 +6,4 @@ See demo.py for usage. </br>
 
 use `pip install ./` to install the package. </br>
 
-## If you use any part of sunslice, please cite Ji et al. 2024, in preparation, ApJ
+## If you use any part of sunslice, please cite Chunyu Ji et al. 2026, ApJ
